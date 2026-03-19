@@ -1,5 +1,5 @@
 {
-  "name": "eikompapp",
+  "name": "ui-for-cashify",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,5 +43,8 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.3.5"
+  },
+  "engines": {
+    "node": "24.x"
   }
 }
